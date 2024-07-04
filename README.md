@@ -19,11 +19,17 @@ The dataset comprises two key files:
 **Steps that are performed**:
 
 Importing libraries
+
 Understanding the dataset
+
 Data wrangling
+
 Data visualization
+
 Hypothesis Testing
+
 Feature Engineering and Data Preprocessing
+
 ML Models - Latent Direchlet Allocation, Clustering and Sentiment analysis
 
 **Problem Statement:**
